@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/874.c10a20fc.chunk.js","mappings":"+HAMA,UAJuB,WAAH,OAClB,wBAAI,8BAA+B,C","sources":["Home.tsx"],"sourcesContent":["import React from \"react\";\r\n\r\nconst Home: React.FC = () => (\r\n  <h1>Eternal Tales welcomes you</h1>\r\n);\r\n\r\nexport default Home;"],"names":[],"sourceRoot":""}

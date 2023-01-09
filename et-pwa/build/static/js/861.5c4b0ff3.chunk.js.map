@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/861.5c4b0ff3.chunk.js","mappings":"+HAMA,UAJwB,WAAH,OACnB,wBAAI,2BAA4B,C","sources":["About.tsx"],"sourcesContent":["import React from \"react\";\r\n\r\nconst About: React.FC = () => (\r\n  <h1>This is a Eternal Tales</h1>\r\n);\r\n\r\nexport default About;"],"names":[],"sourceRoot":""}
